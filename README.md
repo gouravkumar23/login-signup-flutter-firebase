@@ -20,7 +20,7 @@ to use this app clone the repositoy into your working directory and change the a
 Set up fire base by 
 create a project in firebase and replace the json file with your project's json file and use your application id while creating your project for this projec the application id is: com.example.checking1, replace this with yours else you can use this also
 now setup the database
-1. naviate to console-> in  build go to firestore database
+1. naviate to console-> in  'Build' go to firestore database
 2. Create a data base and create a collection users
 3. now install all the dependencies and pub get them and run the application
 4. create a user by using signup feature and to make that user a admin go to the datbase in firestore and change
